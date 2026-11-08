@@ -1,0 +1,11 @@
+{
+  "host": "127.0.0.1",
+  "port": 8084,
+  "admin_enabled": true,
+  "web_channel_binary": true,
+  "firefox_fingerprint": true,
+  "request_timeout_sec": 300,
+  "retry_attempts": 1,
+  "strict_model": true,
+  "strict_model_cooldown_min": 0
+}
